@@ -18,5 +18,4 @@ const {Builder, By, Key} = require("selenium-webdriver");
     // let passWord = await driver.findElement(By.xpath('/html/body/div/div[1]/div/div[1]/div/div[2]/div[2]/form/div[2]/div/div[2]/input')).sendKeys('admin1234', Key.RETURN); 
 
 
-
 })();
